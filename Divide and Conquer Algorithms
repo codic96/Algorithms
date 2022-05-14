@@ -1,1 +1,16 @@
+Divide and Conquer is an algorithmic paradigm(sometimes mistakenly called "Divide and concur"),similar to Greedy and Dynamic Programming.
+
+#1 Divide: Break the given problem into subproblems of same type.
+#2 Conquer:Recursively solve these sub-problems.
+#3 Combine: Appropriately combine the answers.
+
+Following are some standard algorithms that are of the Divide and Conquer algorithms variety:
+
+Binary Search
+Quicksort
+Merge Sort
+Closest Pair of Points
+Strassen's Algorithm
+Cooley-Turkey Fast Fourier Transform (FFT) algorithms
+The Karatsubha algorithm
 
